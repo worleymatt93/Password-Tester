@@ -12,4 +12,4 @@ This project is a very basic password validation script that checks for a variet
 # Limitations
 
 - This script does not prompt for user input or support runtime interaction.
-- To test a password, you must manually assign it to the password variable in the source code or edit the source code to add the support you need.
+- To test a password, you must manually assign it to the password variable in the source code or edit the source code to add the support you need for either Node.js or Browser.
